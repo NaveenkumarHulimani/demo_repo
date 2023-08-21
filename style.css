@@ -1,0 +1,19 @@
+body {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: azure;
+}
+#header {
+    color: blue;
+    padding-left: 40%;
+}
+
+#para {
+   color: aqua;
+   padding-left: 40%;
+}
+
+#button {
+    color: antiquewhite;
+    padding-left: 40%;
+}
